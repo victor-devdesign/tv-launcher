@@ -33,3 +33,6 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# The build image lives in docker/build, which the rule above would otherwise hide
+!/docker/build/

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TV Launcher</string>
+    <string name="key_service_description">Faz o botão Home do controle abrir a tela inicial (segurar abre as Configurações) e o botão Apps abrir os apps.</string>
+</resources>
